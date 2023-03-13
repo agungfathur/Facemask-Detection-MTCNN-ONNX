@@ -11,3 +11,6 @@ Installation :
 4. install the library --> **pip install -r requirements.txt**
 5. Connect your camera webcam (maybe port can be different, you can change the input video in **main.py**)
 6. run the main.py --> **python main.py**
+
+# Demo Video
+![](https://github.com/agungfathur/Facemask-Detection-MTCNN-ONNX/blob/main/test.gif)
